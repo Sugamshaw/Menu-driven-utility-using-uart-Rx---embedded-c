@@ -75,30 +75,24 @@ Users can select options by entering `1`, `2`, or `3` in the UART terminal.
 ## Menu Options
 
 Upon connecting to the UART interface, the following menu is displayed:
-<p align="center">
-    <img src="https://github.com/Sugamshaw/Menu-driven-utility-using-uart-Rx---embedded-c/blob/main/A_PROJECT_2/Picture/a1.png" alt="Menu Option 1" width="256" height="450">
-    <img src="https://github.com/Sugamshaw/Menu-driven-utility-using-uart-Rx---embedded-c/blob/main/A_PROJECT_2/Picture/a2.png" alt="Menu Option 2" width="256" height="450">
-    <img src="https://github.com/Sugamshaw/Menu-driven-utility-using-uart-Rx---embedded-c/blob/main/A_PROJECT_2/Picture/a3.png" alt="Menu Option 3" width="256" height="450">
-    <img src="https://github.com/Sugamshaw/Menu-driven-utility-using-uart-Rx---embedded-c/blob/main/A_PROJECT_2/Picture/a4.png" alt="Exit Option" width="256" height="450">
-</p>
+![Menu Option 1](https://github.com/Sugamshaw/Menu-driven-utility-using-uart-Rx---embedded-c/blob/main/A_PROJECT_2/Picture/a1.png)
+
+![Menu Option 2](https://github.com/Sugamshaw/Menu-driven-utility-using-uart-Rx---embedded-c/blob/main/A_PROJECT_2/Picture/a2.png)
+
+![Menu Option 2](https://github.com/Sugamshaw/Menu-driven-utility-using-uart-Rx---embedded-c/blob/main/A_PROJECT_2/Picture/a3.png)
+
+![Exit Option](https://github.com/Sugamshaw/Menu-driven-utility-using-uart-Rx---embedded-c/blob/main/A_PROJECT_2/Picture/a4.png)
+
 
 
 ## Output
 
-<table>
-  <tr>
-    <td><img src="https://github.com/Sugamshaw/Menu-driven-utility-using-uart-Rx---embedded-c/blob/main/A_PROJECT_2/Picture/a5.png" alt="Alt text 1" width="256" height="450"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/Sugamshaw/Menu-driven-utility-using-uart-Rx---embedded-c/blob/main/A_PROJECT_2/Picture/a6.png" alt="Alt text 4" width="256" height="450"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/Sugamshaw/Menu-driven-utility-using-uart-Rx---embedded-c/blob/main/A_PROJECT_2/Picture/a7.png" alt="Alt text 7" width="256" height="450"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/Sugamshaw/Menu-driven-utility-using-uart-Rx---embedded-c/blob/main/A_PROJECT_2/Picture/a8.png" alt="Alt text 10" width="256" height="450"></td>
-  </tr>
-</table>
+![Output Option 1](https://github.com/Sugamshaw/Menu-driven-utility-using-uart-Rx---embedded-c/blob/main/A_PROJECT_2/Picture/a5.png)
+
+![Output Option 2](https://github.com/Sugamshaw/Menu-driven-utility-using-uart-Rx---embedded-c/blob/main/A_PROJECT_2/Picture/a6.png)
+
+![Output Option 2](https://github.com/Sugamshaw/Menu-driven-utility-using-uart-Rx---embedded-c/blob/main/A_PROJECT_2/Picture/a7.png)
+
 
 ## Contributing
 
